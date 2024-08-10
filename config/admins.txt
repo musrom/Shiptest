@@ -6,5 +6,6 @@
 
 Kitsunemitsu = Senior Admin
 musrom = Host
+Neofatale = STOP KEYFLOODING
 
 #just use the database, this is deprecated
